@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API\\Properties",
+    "\\Domain",
+    "\\Persistence",
+    "\\Persistence\\bin",
+    "\\Persistence\\bin\\Release",
+    "\\Persistence\\bin\\Release\\netstandard2.0",
+    "\\Persistence\\obj\\Debug",
+    "\\Persistence\\obj\\Debug\\netstandard2.0",
+    "\\Persistence\\obj\\Release",
+    "\\Persistence\\obj\\Release\\netstandard2.0"
+  ],
+  "PreviewInSolutionExplorer": false
+}
